@@ -3,5 +3,7 @@ function foo() {
   console.log("something is going on");
 
   const some_array = ["hello", "goodbye"];
-  return "foo";
+
+  // return bar instead of foo
+  return "bar";
 }
