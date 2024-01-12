@@ -2,7 +2,7 @@
 function bar() {
   console.log("something barry is going on");
 
-  const some_array = ["hello", "goodbye"];
+  const some_array = ["helloes", "goodbye", "meow"];
 
   // return bar instead of foo
   return "bar";
